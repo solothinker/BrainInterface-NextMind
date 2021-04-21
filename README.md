@@ -7,5 +7,5 @@ Brain Computer Interface built with Unity and NextMind SDK.
 
 #### Tools Used
 
-![NEXTMIND](https://mms.businesswire.com/media/20201208005141/en/844908/23/logo_nextmind_darkBlack.jpg) 
-[](https://www.next-mind.com/)
+
+[![NEXTMIND](https://mms.businesswire.com/media/20201208005141/en/844908/23/logo_nextmind_darkBlack.jpg) ](https://www.next-mind.com/)
